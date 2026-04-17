@@ -1,0 +1,4 @@
+project_id = "xdwsxqmybzjbbzqbekkg"
+
+[functions.generate-itinerary]
+verify_jwt = false
