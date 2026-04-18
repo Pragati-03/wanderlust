@@ -14,15 +14,15 @@ Wanderlust is an AI-powered travel planning app that generates personalized day-
 ## Tech Stack
 
 - **Frontend**: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui
-- **Backend**: Lovable Cloud (authentication, database, edge functions)
-- **AI**: Lovable AI Gateway (Google Gemini) for itinerary & travel-info generation
+- **Backend**: Supabase Cloud (authentication, database, edge functions)
+- **AI**:  AI Gateway (Google Gemini) for itinerary & travel-info generation
 - **PDF**: jsPDF + jspdf-autotable
 
 ## Getting Started
 
 ```sh
 # Clone the repo
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Pragati-03/wanderwise.git
 cd <YOUR_PROJECT_NAME>
 
 # Install dependencies
@@ -57,7 +57,7 @@ supabase/
 
 ## Deployment
 
-Open the project in [Lovable](https://lovable.dev) and click **Share → Publish**.
+Open the project in https://wanderwise-git-main-pragati-agrawals-projects.vercel.app
 
 ## License
 
